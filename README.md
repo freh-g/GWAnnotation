@@ -36,15 +36,7 @@ The pipeline consists of the following steps:
 7. Handle missing values
 8. Encode categorical variables
 9. Scale numerical fxt
-```
 
-or
-
-```bash
-conda env create -f environment.yml
-```
-
----
 
 ## Input
 
@@ -60,13 +52,6 @@ studies = {
         "GCST003116"
     ]
 }
-```
-
-Optional parameters include:
-
-- ancestry, Malpetti D., Scutari M., Mangili F.
-> *A Pipeline for Predicting Variant Associations with Complex Disorders via Functional Annotations.*
-
 ---
 
 ## Data Sources
