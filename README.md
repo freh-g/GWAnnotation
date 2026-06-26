@@ -23,21 +23,6 @@ The pipeline automatically retrieves GWAS studies, maps variants to the latest r
 
 ---
 
-## Pipeline Overview
-
-The pipeline consists of the following steps:
-
-1. Retrieve GWAS summary statistics
-2. Extract significant and non-significant variants
-3. Map rsIDs to GRCh38 coordinates
-4. Perform chromosome-balanced negative sampling
-5. Annotate variants with CADD
-6. Merge studies and disease labels
-7. Handle missing values
-8. Encode categorical variables
-9. Scale numerical fxt
-
-
 ## Input
 
 The pipeline expects a dictionary mapping **Experimental Factor Ontology (EFO)** identifiers to the corresponding **GWAS Catalog Study (GCST)** IDs.
