@@ -52,6 +52,7 @@ studies = {
         "GCST003116"
     ]
 }
+```
 ---
 
 ## Data Sources
