@@ -42,9 +42,9 @@ studies = {
 
 ## Data Sources
 
-- GWAS Catalog
-- dbSNP
-- CADD
+- GWAS Catalog (https://www.ebi.ac.uk/gwas/)
+- dbSNP (https://www.ncbi.nlm.nih.gov/snp/)
+- CADD (https://cadd.bihealth.org/)
 
 ---
 
