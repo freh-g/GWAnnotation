@@ -1,4 +1,4 @@
-# Variant Annotation Pipeline for Complex Disorder Association Prediction
+#  A Pipeline for Predicting Variant Associations with Complex Disorders via Functional Annotations
 
 A scalable and reproducible pipeline for generating machine learning-ready datasets of genetic variants associated with complex disorders using **GWAS summary statistics** and **CADD functional annotations**.
 
